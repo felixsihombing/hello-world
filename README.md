@@ -1,3 +1,3 @@
 # hello-world
 
-coba-coba menggunakan github
+coba-coba menggunakan github.
